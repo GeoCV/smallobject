@@ -28,11 +28,15 @@ Small object tracking becomes an increasingly important task, which however has 
 In this paper, small objects mean that the targets in images have sizes of less than 1% of the whole image. The challenge of small object tracking mainly roots in two main facts: ﬁrst, the visual features of small objects are extremely ﬁckle, thus making feature representation difﬁcult; second, sudden and large drift always occurs to small objects in tracking because of the shaking of the lens, compared to the normal-sized objects. The so-called sudden and large drift is that the target distance between two adjacent frames in the image coordinate system is two times larger than the target size.
 The aggregation signature uses the target as a prior to adaptively locate the salient object, which is deployed to re-detect the tracked objects when drifting. It is generic and can be used in conjunction with other trackers.
 
---Our code is written in Matlab2018a.
 
 ## Architecture
 ---
-See the JPG file entitles structure above
+See the JPG file entitles structure above.
+
+## Preparation
+---
+Please first install Matlab.
+Our code is written in Matlab2018a.
 
 
 
