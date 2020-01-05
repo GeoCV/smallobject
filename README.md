@@ -41,6 +41,18 @@ See the JPG file entitles structure above.
 Please first install Matlab.  
 Our code is written in Matlab2018a.
 
+## Procedure
+---
+1. Open program "mian_running.m".
+2. Change all paths 'E:\tracking' to your own '\tracking' path.
+3. Change 'pathAnno = 'E:\small90_112\anno_small90_112\''to your own '\anno_small90_112' path.
+4. Open program "tracking\util\configSeqs.m".
+5. Change all paths 'E:\small90_112\small90' to your own '\small90' path.
+6. Run program "mian_running.m" to get result document in '\tracking\results\results_OPE_KCF\'.
+
+## Testing
+---
+
 
 
 
