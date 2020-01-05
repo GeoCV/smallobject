@@ -48,9 +48,6 @@ Our code is written in Matlab2018a.
 5. Change all paths 'E:\small90_112\small90' to your own '\small90' path.
 6. Run program "mian_running.m" to get result document in '\tracking\results\results_OPE_KCF\'.
 
-## Testing
----
-
 
 
 
