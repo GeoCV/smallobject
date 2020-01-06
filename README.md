@@ -32,7 +32,7 @@ The aggregation signature uses the target as a prior to adaptively locate the sa
 
 ## Architecture
 ---
-See the JPG file entitles structure above.
+![avatar](E:\实验室\small_tracking\上传github/structure.jpg)
 
 ## Preparation
 ---
