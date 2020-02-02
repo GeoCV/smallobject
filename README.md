@@ -9,7 +9,7 @@ There are the links to annotation file and datasets.
 
 annotation file:
 
-https://drive.google.com/open?id=1o8IVbmjmoWm37cRBqmlu2RKrWVtS2AW8
+https://drive.google.com/open?id=1bxpURAaFNQYt8SfXP4kiynvpYMJ56y8P
 
 datasets small90:
 
